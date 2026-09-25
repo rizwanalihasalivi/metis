@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data (regenerable, too large)
+data/raw/
+data/processed/
+data/interim/
+*.parquet
+*.npz
+*.h5
+*.hdf5
+*.xz
+*.jsonl
+*.jsonl.xz
+
+# Model artifacts (regenerable)
+models/
+!models/README.md
+
+# Outputs (regenerable)
+outputs/
+!outputs/README.md
+
+# Logs
+*.log
+logs_*.txt
+logs/
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.local
+*.key
+credentials.json
+
+# Archive (old exploratory code)
+archive/

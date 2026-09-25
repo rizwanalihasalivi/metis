@@ -1,0 +1,1 @@
+"""Q3: Conditional resource allocation with scenario uncertainty."""

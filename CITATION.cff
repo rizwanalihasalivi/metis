@@ -1,0 +1,20 @@
+﻿cff-version: 1.2.0
+message: ""If you use this software, please cite it as below.""
+title: ""Metis: Quality-Aware Scaling Laws for Compute-Optimal LLM Resource Allocation""
+abstract: >-
+  A four-stage pipeline that jointly optimizes model size, data volume,
+  and data quality for LLM training under compute-budget constraints,
+  with downstream benchmark capability forecasting.
+authors:
+  - family-names: ""Ali""
+    given-names: ""Rizwan""
+version: 1.0.0
+date-released: ""2026-09-25""
+license: MIT
+repository-code: ""https://github.com/rizwanali/metis""
+keywords:
+  - machine learning
+  - scaling laws
+  - large language models
+  - resource allocation
+  - data quality

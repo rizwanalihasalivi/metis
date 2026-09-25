@@ -1,0 +1,1 @@
+"""Q1: Quality signal construction and conflict analysis."""

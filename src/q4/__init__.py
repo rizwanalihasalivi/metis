@@ -1,0 +1,1 @@
+"""Q4: Historical decomposition and open-model frontier."""
